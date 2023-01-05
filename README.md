@@ -2,7 +2,6 @@
 <h3 align="center">A self-taught developer from India🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-abhishek0&label=Profile%20views&color=0e75b6&style=flat" alt="mr-abhishek0" /> </p>
-<img alt="programmer" align="right" src="https://images.app.goo.gl/fy1oJ5aAbFAgasvYA">
 
 - ⚡ Fun fact **I'm an Idiot**
 
