@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ABX](https://github.com/The-Abhishek1/ABX)
 - 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React**
+- 💬 Ask me about **React.js**
 - 📫 How to reach me **idolent17@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/The-Abhishek1**
 - ⚡ Fun fact **I'm an Idiot😄**
