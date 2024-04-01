@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A Fullstack web Developer From India❤️‍🔥</h3>
+<h3 align="center">An Idiotic Developer From India❤️‍🔥</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-Abhishek1&theme=" alt="The-Abhishek1" /></a> </p>
 
-- 🔭 I’m currently working on [ABX](https://github.com/The-Abhishek1/ABX)
+- 🔭 I’m currently working on [AblazeNova](https://github.com/The-Abhishek1/webtech))
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React.js**
-- 📫 How to reach me **idolent17@gmail.com**
+- 📫 How to reach me **idiot63666@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/The-Abhishek1**
 - ⚡ Fun fact **I'm an Idiot😄**
 
