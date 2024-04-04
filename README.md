@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-Abhishek1&theme=" alt="The-Abhishek1" /></a> </p>
 
-- 🔭 I’m currently working on [AblazeNova]((https://github.com/The-Abhishek1/webtech))
+- 🔭 I’m currently working on [AblazeNova](https://github.com/The-Abhishek1/webtech)
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React.js**
 - 📫 How to reach me **idiot63666@gmail.com**
