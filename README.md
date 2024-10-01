@@ -2,7 +2,7 @@
 <h3 align="center">An Idiotic Developer From India❤️‍🔥</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" /> </p>
 
-<script src="https://tryhackme.com/badge/1490207"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Idiot17.png" alt="TryHackMe">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-Abhishek1&theme=" alt="The-Abhishek1" /></a> </p>
 
