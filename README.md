@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">An Idiotic Developer From India❤️‍🔥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/Idiot17.png" alt="TryHackMe"></p>
+<p align="center"> 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Idiot17.png" alt="TryHackMe">
+  <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" />
+</p>
 
 
 
