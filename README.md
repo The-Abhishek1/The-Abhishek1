@@ -2,6 +2,8 @@
 <h3 align="center">An Idiotic Developer From India❤️‍🔥</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" /> </p>
 
+<script src="https://tryhackme.com/badge/1490207"></script>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-Abhishek1&theme=" alt="The-Abhishek1" /></a> </p>
 
 - 🔭 I’m currently working on [AblazeNova](https://github.com/The-Abhishek1/webtech)
