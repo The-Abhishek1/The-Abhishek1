@@ -4,8 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" />
 </p>
-<p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Idiot17.png" alt="TryHackMe">
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/Idiot17.png" alt="TryHackMe">
  </p>
 
 
