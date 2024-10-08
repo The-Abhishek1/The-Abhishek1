@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" />
 </p>
 <p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Idiot17.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1490207" style='border:none;'></iframe>
  </p>
 
 
