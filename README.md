@@ -1,71 +1,191 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">An Idiotic Ethical Hacker & Developer From India❤️‍🔥</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="The-Abhishek1" />
-</p>
-<p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xIdiot.png" alt="0xIdiot's Badge" />
- </p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-Abhishek1&theme=" alt="The-Abhishek1" /></a> </p>
-
-- 🔭 I’m currently working on [AblazeNova](https://github.com/The-Abhishek1/webtech)
-- 🌱 I’m currently learning **Ethical Hacking**
-- 💬 Ask me about **CyberSecurity**
-- 📫 How to reach me **idiot63666@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/The-Abhishek1**
-- ⚡ Fun fact **I'm an Idiot😄**
-
-<div> <a href="https://twitter.com/justAbhi0" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/abhishek-gowda17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/The-Abhishek1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/abhishekg0wda_02" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:idolent17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/justAbhi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="justAbhi0" height="30" width="40" /></a><a href="https://linkedin.com/in/abhishek-gowda17" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="abhishek-gowda-b582a6260" height="30" width="40" /></a><a href="https://instagram.com/abhishekg0wda_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="abhishekg0wda_02" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Abhishek1&layout=compact&theme=default" alt=The-Abhishek1 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Abhishek1&show_icons=true&locale=en&theme=" alt="The-Abhishek1" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Abhishek1&theme=" alt="The-Abhishek1" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/The-Abhishek1">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=The-Abhishek1&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=The-Abhishek1&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=The-Abhishek1&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=The-Abhishek1&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Abhishek1&theme=2077" height="180em" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=0xIdiot&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Abhishek%20N%20%7C%20Cybersecurity%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=58&descAlign=50" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=The-Abhishek1&label=Profile%20views&color=00ff41&style=for-the-badge" alt="The-Abhishek1" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25%20%7C%20%233515-00ff41?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/PortSwigger-Practitioner-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xIdiot.png" alt="0xIdiot's TryHackMe Badge" />
+
 </div>
+
+---
+
+## `whoami`
+
+```bash
+┌──(0xIdiot㉿kali)-[~]
+└─$ cat about.txt
+
+  Name     : Abhishek N
+  Alias    : 0xIdiot
+  Role     : Cybersecurity Engineer & Full-Stack Developer
+  Location : Bangalore, Karnataka, IN
+  MCA      : Cybersecurity, Ethical Hacking & Cyber Forensics @ S-VYASA University
+  CGPA     : 9.8 (Sem 2)
+  Status   : [ ACTIVE ] Breaking things to understand them
+```
+
+---
+
+## 🏆 Stats & Achievements
+
+<div align="center">
+
+| Platform | Achievement |
+|----------|-------------|
+| 🎯 TryHackMe | **Global Rank #3515 — Top 1% worldwide** · 413 rooms completed |
+| 🔬 PortSwigger Web Security Academy | **Practitioner Level** · 46+ labs · Active paths: Auth, WebSockets, NoSQL |
+| 🚩 picoCTF | **95 Easy challenges** · Web · Binary · Forensics · Cryptography |
+| 🎓 Academic | **CGPA 9.8** (Sem 2) · MCA Cybersecurity |
+
+</div>
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=The-Abhishek1&theme=matrix&no-frame=true&column=7&margin-w=8" />
+</a>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### [XCloak / ESO](https://xcloak.tech) — AI-Powered Cybersecurity SaaS
+> `Next.js 15` `FastAPI` `Supabase` `Docker` `Redis` `RabbitMQ` `PostgreSQL` `Nmap` `Nuclei`
+
+Live at **xcloak.tech** · Paid SaaS at ₹999/month (Razorpay)
+
+- Users describe a scan goal in plain English → AI plans and executes end-to-end
+- Orchestrates 7 Docker-isolated tools with real-time WebSocket streaming
+- Human-in-the-loop approval, CVSS scoring, and professional PDF pentest report export
+- JWT + Supabase RLS auth, target allowlist/denylist, full audit log
+
+---
+
+### [ForenX](https://github.com/The-Abhishek1/ForenX) — Linux Digital Forensics Toolkit
+> `Python 3` `Scapy` `Volatility` `ExifTool`
+
+- Modular CLI toolkit for incident response
+- Analyzes `auth.log`, memory dumps, PCAP captures, and file artifacts
+- Extracts SSH brute-force IPs, credentials, hidden files, EXIF metadata
+
+---
+
+### [AI Student Placement System](https://github.com/The-Abhishek1/AI-Student-Placement-System)
+> `Next.js 14` `MongoDB` `Socket.io` `Gemini API` `OpenAI` `2FA/TOTP`
+
+- AI-driven student-company matching using Google Gemini and OpenAI
+- Secure auth: bcrypt + JWT + TOTP 2FA with QR codes
+- Real-time notifications via Socket.io
+
+---
+
+### Other Projects
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [CRMSX](https://github.com/The-Abhishek1/CRMSX) | React · Node.js · Express · MySQL | Real-time CRM with live data updates |
+| [PropertyNexus](https://github.com/The-Abhishek1/Property-Manager) | Next.js 14 · Firebase · Recharts | Full CRUD property management platform |
+| Aethr *(WIP)* | Next.js · TypeScript · Supabase | Discord-inspired social platform with reputation economy |
+
+---
+
+## 🛠️ Tech Stack
+
+### Offensive Security
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### AI / LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| Jr. Penetration Tester Path | TryHackMe | ✅ Completed — Apr 2025 |
+| Android Bug Bounty | EC-Council | ✅ Completed |
+| SQL Injection Attacks | EC-Council | ✅ Completed |
+| Dark Web & Cryptocurrency | EC-Council | ✅ Completed |
+| Endpoint Security | Cisco Networking Academy | ✅ Completed |
+| Cybersecurity Job Simulation | Tata Group & Datacom (Forage) | ✅ Completed |
+| CEH | EC-Council | 🎯 Targeting |
+| OSCP | OffSec | 🎯 Targeting |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Abhishek1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Abhishek1&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Abhishek1&theme=chartreuse-dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Abhishek1&theme=2077" />
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gowda17)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-Abhishek1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justAbhi0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishekg0wda_02)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekn1003@gmail.com)
+[![XCloak](https://img.shields.io/badge/XCloak-00ff41?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01TDIgMTd6Ii8+PC9zdmc+&logoColor=black)](https://xcloak.tech)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+root@0xidiot:~$ echo "Breaking things to understand them"
+Breaking things to understand them
+root@0xidiot:~$ █
+```
+
+⚡ *"I'm an Idiot who knows how to hack"* — Abhishek N
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" />
