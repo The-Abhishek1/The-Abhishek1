@@ -33,7 +33,7 @@
   location     = Bangalore, Karnataka, IN
   education    = MCA in Cybersecurity, Ethical Hacking and Cyber Forensics
   university   = S-VYASA University
-  cgpa         = 9.8 (Sem 2) | 9.4 (Sem 3)
+  cgpa         = 9.0
 
   [skills]
   primary      = Penetration Testing, Web App Security, VAPT, Digital Forensics
