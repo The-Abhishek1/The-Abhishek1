@@ -59,7 +59,7 @@
 | PortSwigger | **Practitioner Level** · Auth, WebSockets, NoSQL, SQLi |
 | picoCTF | **95 Easy challenges** · Web · Binary · Forensics · Crypto |
 | HTB | Active — machines in progress |
-| CGPA | **9.8** Sem 2 · MCA Cybersecurity |
+| CGPA | **9.8** · MCA Cybersecurity |
 
 </div>
 
