@@ -40,7 +40,7 @@
 | 🎯 TryHackMe | **Global Rank #3515 — Top 1% worldwide** · 413 rooms completed |
 | 🔬 PortSwigger Web Security Academy | **Practitioner Level** · 46+ labs · Active paths: Auth, WebSockets, NoSQL |
 | 🚩 picoCTF | **95 Easy challenges** · Web · Binary · Forensics · Cryptography |
-| 🎓 Academic | **CGPA 9.8** (Sem 2) · MCA Cybersecurity |
+| 🎓 Academic | **CGPA 9.8** · MCA Cybersecurity |
 
 </div>
 
