@@ -52,7 +52,7 @@
 
 ---
 
-## 📡 `$ nmap -sV --open 0xIdiot`
+## 📡 `$ nmap -sV --open z3r0x1d10t`
 
 <div align="center">
 
@@ -274,7 +274,7 @@ report = pdf.export(              # [+] Professional pentest report
 
 ---
 
-## 🌐 `$ netstat -active --connect 0xIdiot`
+## 🌐 `$ netstat -active --connect z3r0x1d10t`
 
 <div align="center">
 
@@ -316,6 +316,6 @@ report = pdf.export(              # [+] Professional pentest report
 
 **"An idiotic ethical hacker who builds things to break them"**
 
-*— Abhishek N aka 0xIdiot*
+*— Abhishek N aka z3r0x1d10t*
 
 </div>
