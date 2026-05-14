@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=3000&pause=800&color=#f52d05&background=00000000&center=true&vCenter=true&width=900&height=80&lines=z3r0x1d10t)](https://github.com/The-Abhishek1)
+[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=3000&pause=800&color=f52d05&background=00000000&center=true&vCenter=true&width=900&height=80&lines=z3r0x1d10t)](https://github.com/The-Abhishek1)
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=005500&background=00000000&center=true&vCenter=true&width=700&height=24&lines=%E2%94%8C%E2%94%80%E2%94%80(0xIdiot%E2%86%99kali)-[~]+-+Cybersecurity+Engineer+%26+Full-Stack+Dev" />
 
