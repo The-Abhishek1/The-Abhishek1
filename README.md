@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=99999&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=80&lines=z3r0x1d10t)](https://github.com/The-Abhishek1)
+[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=6000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=80&lines=z3r0x1d10t)](https://github.com/The-Abhishek1)
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=99999&pause=99999&color=005500&background=00000000&center=true&vCenter=true&width=700&height=24&lines=%E2%94%8C%E2%94%80%E2%94%80(0xIdiot%E2%86%99kali)-[~]+-+Cybersecurity+Engineer+%26+Full-Stack+Dev" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=6000&pause=800&color=005500&background=00000000&center=true&vCenter=true&width=700&height=24&lines=%E2%94%8C%E2%94%80%E2%94%80(0xIdiot%E2%86%99kali)-[~]+-+Cybersecurity+Engineer+%26+Full-Stack+Dev" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=%5B%2B%5D+Cybersecurity+Engineer+%26+Full-Stack+Dev;%5B%2B%5D+TryHackMe+Top+1%25+%7C+Global+Rank+%233515;%5B%2B%5D+PortSwigger+Web+Security+Practitioner;%5B*%5D+Creator+of+XCloak+AI+Pentest+SaaS;%5B%21%5D+Breaking+things+to+understand+them...)](https://git.io/typing-svg)
 
