@@ -248,30 +248,24 @@ report = pdf.export(              # [+] Professional pentest report
 ```
 
 ---
-
+ 
 ## 📊 `$ github-stats --verbose The-Abhishek1`
-
+ 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Abhishek1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Abhishek1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Abhishek1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Abhishek1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Abhishek1&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=The-Abhishek1&theme=matrix&no-frame=true&column=7&margin-w=6&no-bg=true"/>
 </div>
-
 <br/>
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Abhishek1&theme=2077"/>
 </div>
-
 ---
 
 ## 🌐 `$ netstat -active --connect z3r0x1d10t`
